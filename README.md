@@ -11,7 +11,7 @@
 Note : Tool is Made of Educational Purposes only.
        Please try not to harm anyone device 
        it's For Fun Purpose Not For Revenge
-       (Join Us https://bit.ly/3PV3S3r)
+       (Join Us https://discord.gg/jzm8yAqM)
 ```
 ### [+] Features
  - Three Templates (More Templates Coming Soon)
