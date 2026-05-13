@@ -4,7 +4,7 @@
 
 ###### HACK CAMERA LIVE WITH CLOUDFLARED LINK.
 ***
-### <p align="center">Commands to run tool in ur terminal Termux && Kali Linux
+
 ***
 
 ```bash
